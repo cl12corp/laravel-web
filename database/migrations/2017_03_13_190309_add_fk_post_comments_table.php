@@ -1,4 +1,4 @@
-<?php
+ <?php
 
 use Illuminate\Support\Facades\Schema;
 use Illuminate\Database\Schema\Blueprint;
@@ -13,7 +13,7 @@ class AddFkPostCommentsTable extends Migration
      */
     public function up()
     {
-        //
+        // 
     }
 
     /**
